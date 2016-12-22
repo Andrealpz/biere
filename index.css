@@ -1,0 +1,84 @@
+
+body  {
+	background-color: #EFEFEA;
+	margin-left: auto;
+	margin-right: auto;
+    width: 100%;
+    margin-top: 0px;
+}
+header{
+	display: flex;
+    justify-content: space-around;
+    background-color: #E1DCD2;
+    padding: 15px;
+ }
+
+header a{
+	color:#5F6262;
+}
+header a:hover{
+	color:black;
+	font-size:16px;
+}
+.titre {
+	display:flex;
+	justify-content: space-between;
+    margin-top:30px; 
+    padding:0 80px 0 80px;
+      
+}
+.titre a {
+	border-radius: 20px;
+	background-color: white;
+	box-shadow: 6px 6px 6px #E2E1DC;
+	padding:10px;
+	color:#919796;
+	display: flex;
+	align-items: center;
+
+
+
+}
+nav {
+	display: flex;
+    justify-content: space-around;
+    font-size:20px;
+    padding:50px 50px 20px 50px;
+    
+
+}
+nav a:hover{
+	color:orange;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+.classe{
+	height: 10px;
+	width: 250px;
+}
+.rouge {
+	display: flex;
+    justify-content: space-around;
+    color:red;
+}
+.img1 {
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 60px 10px 60px;
+}
+.img1 img{
+	border:10px solid white;
+}
+.conteneur {
+	background: url("https://img.saveur-biere.com/chritmas_landing/2016-11-14_14_07_37_chritmas_landingbg.png")
+	no-repeat scroll center top;
+}
+.imag1 {
+	border: 1px solid #9BA1A0;
+	background-color: white;
+	
+}
+
+
